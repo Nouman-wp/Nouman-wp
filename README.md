@@ -47,6 +47,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Nouman-wp/Nouman-wp/output/snake.svg" alt="Snake animation" />
 
 ###
