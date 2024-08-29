@@ -1,4 +1,4 @@
-<h2 align="left">Hi viewer 🤘 !<br>I am Nouman , Btech CSE-AI Undergrad 🎓 , I am passionate about Web Development👨🏻‍💻, Cloud computing and CyberSecurity.🚀<br> 🌐 I’m driven by a passion for innovation and a desire to turn ideas into practical, real-world solutions. My goal is to leverage technology to create meaningful and innovative solutions.💥</h2>
+<h2 align="left">Hi viewer 🤘 !<br>I am Nouman , Btech CSE-AI Undergrad 🎓 , I am passionate about Web Development👨🏻‍💻, Cloud computing and CyberSecurity.🚀<br> 🌐 I’m driven by a passion for innovation and a desire to turn ideas into practical, Solve real-world Problems . My goal is to leverage technology to create meaningful and innovative solutions.💥</h2>
 
 ###
 
