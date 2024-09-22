@@ -74,3 +74,4 @@ I am Nouman, a BTech CSE-AI Undergrad 🎓. I am passionate about Web Developmen
 I'm a big fan of coding challenges and hackathons! Participating in them not only sharpens my skills but also allows me to collaborate with amazing minds. Let’s connect and create something awesome together!
 
 <img src="https://i.seadn.io/gae/p9jPZKQ04Vm86g9p4nzJKgi9Ap2T7s07quXvV2W4IDf7S0ckTH8l2-FuH_43it1YhPeCvK_di70XSlsVTul5LsIOuuHrPykhgZKE?auto=format&dpr=1&w=1000"  alt="Collaboration GIF"/>
+<iframe src="https://giphy.com/embed/V4NSR1NG2p0KeJJyr5" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hacker-hacking-binary-V4NSR1NG2p0KeJJyr5">via GIPHY</a></p>
