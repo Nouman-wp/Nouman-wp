@@ -41,7 +41,7 @@ I am Nouman, a BTech CSE-AI Undergrad 🎓. I am passionate about Web Developmen
   I'm always eager to learn and experiment with new tools and technologies to enhance my skills. Whether it's diving into the world of AI, exploring the latest frameworks, or mastering cloud services, I'm committed to continuous growth.
 </h3>
 
-<img align="center" width="150" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" alt="Coding GIF"/>
+<img align="center" width="550" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" alt="Coding GIF"/>
 
 <h2 align="left">📫 Connect with Me:</h2>
 
