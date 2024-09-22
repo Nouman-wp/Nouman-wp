@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/3ov9kbuQg8ayvoYGsw/giphy.gif" alt="Cyberpunk Coding GIF" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" alt="Cyberpunk Coding GIF" width="600" height="300"/>
 </div>
 
 <h2 align="center" style="color:#00ffff;">Welcome to the Neon Realm 🌌</h2>
