@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" alt="Cyberpunk Pixel Coding GIF" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjhmODgzZTg5ZDNhNGQzNzU3MjZhNzQwYjFmZTE5NTcwNGM3OTUzMyZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Cyberpunk City Coding GIF" width="600" height="300"/>
 </div>
 
 <h2 align="center" style="color:#ff66ff;">Welcome to my Pixel Realm 🌌</h2>
@@ -11,7 +11,7 @@
 
 ---
 
-<img align="right" height="150" src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" alt="Pixel Art gif" />
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjhmMjMzMDMxN2RlZTRiZmU0MzQxNGIzNWRjYzJmMWZjYmFkNGZkZiZjdD1z/Dqj87Ac64yc8rqx8dt/giphy.gif" alt="Cyberpunk Pixel Coder gif" />
 
 <h3 style="color:#00ffff;">🌌 Quick Facts:</h3>
 - 🛠 Diving into Full-Stack Development with a Retro flair (MERN)  
@@ -23,7 +23,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/1xVdmkcjglRjw5rgwj/giphy.gif" alt="Pixel Cyber Coding GIF" width="450"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGNjMzdmMTZhNmJjZjY4NGQ2MTE5ZDc0MzJhNjI2OWIwYzRiNTBmOSZjdD1z/cWic2uDnGNsqQx03zJ/giphy.gif" alt="Cyber Coding GIF" width="450"/>
 </div>
 
 <h3 style="color:#00ffff;">🚀 Tech Stack & Tools:</h3>
@@ -50,7 +50,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="Pixel Coding gif" width="400"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTg1ZjUwMWFjZDQ2MmJmMGY1OTVkYTk5YmFmMmY1ZjQ4ZTIxZTViMyZjdD1z/l41JWw65TcBGjPpRK/giphy.gif" alt="Coding Night gif" width="400"/>
 </div>
 
 <h3 align="center" style="color:#ff66ff;">"In the heart of the pixel city, coding the future."</h3>
@@ -67,5 +67,5 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/1BdIPgNVmnfY7EdmYt/giphy.gif" alt="Pixel Cyber GIF" width="500"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGJkZWEwNjcwNDBkY2NlNjkwNTY3NmZjMzdkMjdlYzcxZDJmZmY3MyZjdD1z/hpFB5icOsRXz1PyMuL/giphy.gif" alt="Night City Pixel GIF" width="500"/>
 </div>
