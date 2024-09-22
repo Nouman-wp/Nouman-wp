@@ -9,7 +9,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" style="max-width: 100%; display: inline-block;"data-target="animated-image.originalImage">
 
 ---
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
 
 <h3 style="color:#00ffff;">🌌 Quick Facts:</h3>
 - 🛠 Diving into Full-Stack Development with a Retro flair (MERN)  
