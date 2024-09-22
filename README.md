@@ -73,5 +73,5 @@ I am Nouman, a BTech CSE-AI Undergrad 🎓. I am passionate about Web Developmen
 ### 🚀 Fun Fact:
 I'm a big fan of coding challenges and hackathons! Participating in them not only sharpens my skills but also allows me to collaborate with amazing minds. Let’s connect and create something awesome together!
 
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" style="display: block; margin: 0 auto; width: 800px; height: 400px;" />
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" style="display: block; margin: 0 auto; width: 850px; height: 400px;" />
 
