@@ -1,32 +1,32 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/3ov9kbuQg8ayvoYGsw/giphy.gif" alt="Cyberpunk Coding GIF" width="600" height="300"/>
 </div>
 
-<h2 align="center">Hi there, viewer! 🤘<br>I'm Nouman, a BTech CSE-AI Undergrad 🎓, passionate about Web Development 👨🏻‍💻, Cloud Computing, and Cybersecurity 🚀</h2>
+<h2 align="center" style="color:#00ffff;">Welcome to the Neon Realm 🌌</h2>
+<h2 align="center" style="color:#ff66ff;">I am Nouman, a BTech CSE-AI Undergrad 🎓, exploring the matrix of Web Development 👨🏻‍💻, Cloud Computing ☁️, and Cybersecurity 🛡️</h2>
   
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=24&center=true&vCenter=true&lines=Innovating+through+Code+%F0%9F%92%A1;Full-Stack+Developer+in+the+Making+%F0%9F%92%BB;AI%2C+Cybersecurity%2C+and+Cloud+Fanatic+%F0%9F%93%8C" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=28&center=true&vCenter=true&lines=Solving+Real+Problems+with+Code+%E2%9A%A1;Exploring+Web3+and+Blockchain+%F0%9F%92%BB;Night+Hacker+in+a+CyberCity+%F0%9F%94%A5;Cloud+and+Cybersecurity+Fanatic+%F0%9F%93%8C" alt="Typing SVG">
 </div>
 
 ---
 
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3I3MncyYXpvZ3lqeWpjYmZsaXhqZ3RvNm5xeGtiMG53dXlvNzV2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Coding gif" />
+<img align="right" height="150" src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" alt="Cyberpunk gif" />
 
-<h3>🌟 Quick Facts:</h3>
-- 🔭 I’m currently exploring Full-Stack Development with the MERN stack.  
-- ☁️ Working on Google Cloud Arcade challenges — 95+ arcade points and counting!  
-- 💡 Always diving into new tech trends and hackathons 🏆.  
-- 🛡️ Learning Cybersecurity and Ethical Hacking 🕶️.  
-- 🎨 UI/UX enthusiast — attended Design Samwaad 2.0 at IIIT Delhi!  
-- 🎮 When I'm not coding, you'll find me designing or gaming!
+<h3 style="color:#ff66ff;">🌌 Quick Facts:</h3>
+- 🛠 Currently diving deep into Full-Stack Development with MERN  
+- 🌐 Exploring the endless possibilities of Cloud Computing  
+- 🧠 Ethical hacking enthusiast, finding new ways to secure the digital world  
+- 👾 Worked on AI-powered career guidance system **ViaMentis**  
+- 🏆 Participating in Hackathons and always looking for the next big thing!
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Coding GIF" width="450"/>
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" alt="Cyberpunk Coding GIF" width="450"/>
 </div>
 
-<h3>🚀 Tech Stack & Tools:</h3>
+<h3 style="color:#00ffff;">🚀 Tech Stack & Tools:</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="10" />
@@ -52,14 +52,10 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7aCVFZGc61X5Z7YY/giphy.gif" alt="Developer life" width="400" />
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="Neon Cybercoding gif" width="400"/>
 </div>
 
-<h3>⚡ Fun Stuff:</h3>
-- 🌍 Building cool decentralized projects with Web3 technology.
-- 🤖 Working on an AI-powered career guidance system called ViaMentis.
-- 🔥 Cybersecurity enthusiast: completed hands-on training in Ethical Hacking using Kali Linux, Metasploit, and SQL Injection.
-- 🎧 Always learning, growing, and experimenting with code and coffee ☕.
+<h3 align="center" style="color:#ff66ff;">"In the heart of the digital neon city, I code the future."</h3>
 
 ---
 
@@ -73,7 +69,5 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l0HlJff0bDcbOq6aM/giphy.gif" alt="Motivation gif" width="500"/>
+  <img src="https://media.giphy.com/media/RLwC07JhkDmnfdlEZl/giphy.gif" alt="CyberCity Night" width="500"/>
 </div>
-
-<h3 align="center">"Every big project starts with small steps, so keep coding and stay curious!"</h3>
