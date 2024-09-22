@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjhmODgzZTg5ZDNhNGQzNzU3MjZhNzQwYjFmZTE5NTcwNGM3OTUzMyZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Cyberpunk City Coding GIF" width="600" height="300"/>
+  <img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjcwMjE2NzcsIm5iZiI6MTcyNzAyMTM3NywicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTIyVDE2MDkzN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE5YTA4ZGFiYWUyOTdkZTVhMjgyOGNjZTY5ZjYwZTc0NTM2MzI1NGNiZTNjNGQ0Yzk1MTkyY2Q3OGRjOGU0N2YmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Fvj5wSurP11-pLotuCCLW7qhBWIHFyXn5QO9_w7dhCs" alt="Cyberpunk City Coding GIF" width="600" height="300"/>
 </div>
+
 
 <h2 align="center" style="color:#ff66ff;">Welcome to my Pixel Realm 🌌</h2>
 <h2 align="center" style="color:#ff66ff;">I am Nouman, a BTech CSE-AI Undergrad 🎓, exploring the matrix of Web Development 👨🏻‍💻, Cloud Computing ☁️, and Cybersecurity 🛡️</h2>
