@@ -42,16 +42,16 @@ I am Nouman, a BTech CSE-AI Undergrad 🎓. I am passionate about Web Developmen
 
 ###
 
-<h3 align="left">🛠️ Tools & Technologies:</h3>
-<p align="left">
+<h2 align="left">🛠️ Tools & Technologies:</h2>
+<h3 align="left">
   I'm always eager to learn and experiment with new tools and technologies to enhance my skills. Whether it's diving into the world of AI, exploring the latest frameworks, or mastering cloud services, I'm committed to continuous growth.
-</p>
+</h3>
 
 <img align="left" width="150" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" alt="Coding GIF"/>
 
 ###
 
-<h3 align="left">📫 Connect with Me:</h3>
+<h2 align="left">📫 Connect with Me:</h2>
 <div align="left">
   <a href="https://www.instagram.com/nouman_wp/"><img
             src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge"
@@ -73,4 +73,4 @@ I am Nouman, a BTech CSE-AI Undergrad 🎓. I am passionate about Web Developmen
 ### 🚀 Fun Fact:
 I'm a big fan of coding challenges and hackathons! Participating in them not only sharpens my skills but also allows me to collaborate with amazing minds. Let’s connect and create something awesome together!
 
-<img src="https://media.giphy.com/media/3o6MbkUs0M9k4h7a2w/giphy.gif" width="200" alt="Collaboration GIF"/>
+<img src="https://i.seadn.io/gae/p9jPZKQ04Vm86g9p4nzJKgi9Ap2T7s07quXvV2W4IDf7S0ckTH8l2-FuH_43it1YhPeCvK_di70XSlsVTul5LsIOuuHrPykhgZKE?auto=format&dpr=1&w=1000"  alt="Collaboration GIF"/>
