@@ -1,29 +1,29 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" alt="Cyberpunk Coding GIF" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" alt="Cyberpunk Pixel Coding GIF" width="600" height="300"/>
 </div>
 
-<h2 align="center" style="color:#00ffff;">Welcome to the Neon Realm 🌌</h2>
+<h2 align="center" style="color:#ff66ff;">Welcome to my Pixel Realm 🌌</h2>
 <h2 align="center" style="color:#ff66ff;">I am Nouman, a BTech CSE-AI Undergrad 🎓, exploring the matrix of Web Development 👨🏻‍💻, Cloud Computing ☁️, and Cybersecurity 🛡️</h2>
-  
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=28&center=true&vCenter=true&lines=Solving+Real+Problems+with+Code+%E2%9A%A1;Exploring+Web3+and+Blockchain+%F0%9F%92%BB;Night+Hacker+in+a+CyberCity+%F0%9F%94%A5;Cloud+and+Cybersecurity+Fanatic+%F0%9F%93%8C" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?color=ff66ff&size=28&center=true&vCenter=true&lines=Building+the+Retro+Future+with+Code;Exploring+Web3+and+Blockchain;Night+Coder+in+a+Pixel+City;Cloud+and+Cybersecurity+Fanatic" alt="Typing SVG">
 </div>
 
 ---
 
-<img align="right" height="150" src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" alt="Cyberpunk gif" />
+<img align="right" height="150" src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" alt="Pixel Art gif" />
 
-<h3 style="color:#ff66ff;">🌌 Quick Facts:</h3>
-- 🛠 Currently diving deep into Full-Stack Development with MERN  
-- 🌐 Exploring the endless possibilities of Cloud Computing  
-- 🧠 Ethical hacking enthusiast, finding new ways to secure the digital world  
-- 👾 Worked on AI-powered career guidance system **ViaMentis**  
-- 🏆 Participating in Hackathons and always looking for the next big thing!
+<h3 style="color:#00ffff;">🌌 Quick Facts:</h3>
+- 🛠 Diving into Full-Stack Development with a Retro flair (MERN)  
+- 🌐 Pushing the boundaries of Cloud Computing and Cybersecurity  
+- 🎮 Ethical hacking, building the web’s defenses, pixel by pixel  
+- 👾 Working on AI-powered career guidance system **ViaMentis**  
+- 🏆 Competing in Hackathons and always growing
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" alt="Cyberpunk Coding GIF" width="450"/>
+  <img src="https://media.giphy.com/media/1xVdmkcjglRjw5rgwj/giphy.gif" alt="Pixel Cyber Coding GIF" width="450"/>
 </div>
 
 <h3 style="color:#00ffff;">🚀 Tech Stack & Tools:</h3>
@@ -44,18 +44,16 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="Anaconda" />
-  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="Neon Cybercoding gif" width="400"/>
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="Pixel Coding gif" width="400"/>
 </div>
 
-<h3 align="center" style="color:#ff66ff;">"In the heart of the digital neon city, I code the future."</h3>
+<h3 align="center" style="color:#ff66ff;">"In the heart of the pixel city, coding the future."</h3>
 
 ---
 
@@ -69,5 +67,5 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/RLwC07JhkDmnfdlEZl/giphy.gif" alt="CyberCity Night" width="500"/>
+  <img src="https://media.giphy.com/media/1BdIPgNVmnfY7EdmYt/giphy.gif" alt="Pixel Cyber GIF" width="500"/>
 </div>
