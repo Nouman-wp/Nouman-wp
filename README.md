@@ -5,9 +5,7 @@
 <h2 align="center" style="color:#ff66ff;">Welcome to my Pixel Realm 🌌</h2>
 <h2 align="center" style="color:#ff66ff;">I am Nouman, a BTech CSE-AI Undergrad 🎓, exploring the matrix of Web Development 👨🏻‍💻, Cloud Computing ☁️, and Cybersecurity 🛡️</h2>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=ff66ff&size=28&center=true&vCenter=true&lines=Building+the+Retro+Future+with+Code;Exploring+Web3+and+Blockchain;Night+Coder+in+a+Pixel+City;Cloud+and+Cybersecurity+Fanatic" alt="Typing SVG">
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 ---
 
