@@ -6,7 +6,7 @@
 <h2 align="center" style="color:#ff66ff;">Welcome to my Pixel Realm 🌌</h2>
 <h2 align="center" style="color:#ff66ff;">I am Nouman, a BTech CSE-AI Undergrad 🎓, exploring the matrix of Web Development 👨🏻‍💻, Cloud Computing ☁️, and Cybersecurity 🛡️</h2>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" style="max-width: 100%; display: inline-block;"data-target="animated-image.originalImage">
 
 ---
 
@@ -21,7 +21,7 @@
 
 ---
 
-<div align="center">
+<div align="right">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGNjMzdmMTZhNmJjZjY4NGQ2MTE5ZDc0MzJhNjI2OWIwYzRiNTBmOSZjdD1z/cWic2uDnGNsqQx03zJ/giphy.gif" alt="Cyber Coding GIF" width="450"/>
 </div>
 
@@ -49,7 +49,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTg1ZjUwMWFjZDQ2MmJmMGY1OTVkYTk5YmFmMmY1ZjQ4ZTIxZTViMyZjdD1z/l41JWw65TcBGjPpRK/giphy.gif" alt="Coding Night gif" width="400"/>
+  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" alt="Coding Night gif" width="400"/>
 </div>
 
 <h3 align="center" style="color:#ff66ff;">"In the heart of the pixel city, coding the future."</h3>
