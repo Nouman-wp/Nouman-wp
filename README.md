@@ -40,7 +40,8 @@ I am Nouman, a BTech CSE-AI Undergrad 🎓. I am passionate about Web Developmen
 <h3 align="left">
   I'm always eager to learn and experiment with new tools and technologies to enhance my skills. Whether it's diving into the world of AI, exploring the latest frameworks, or mastering cloud services, I'm committed to continuous growth.
 </h3>
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="design" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="design" style="max-width: 100%; display: block; margin: auto;">
+
 
 <h2 align="left">📫 Connect with Me:</h2>
 
