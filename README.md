@@ -5,6 +5,7 @@
 <h2 align="left">Hi viewer 🤘 !<br>
 I am Nouman, a BTech CSE-AI Undergrad 🎓. I am passionate about Web Development👨🏻‍💻, Cloud Computing, and Cybersecurity 🚀.<br>
 🌐 I’m driven by a passion for innovation and a desire to turn ideas into practical solutions that solve real-world problems. My goal is to leverage technology to create meaningful and innovative solutions 💥.</h2>
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif">
 
 <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3I3MncyYXpvZ3lqeWpjYmZsaXhqZ3RvNm5xeGtiMG53dXlvNzV2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" />
 
