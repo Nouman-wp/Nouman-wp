@@ -36,7 +36,7 @@ I am Nouman, a BTech CSE-AI Undergrad 🎓. I am passionate about Web Developmen
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
 </div>
-
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif">
 <h2 align="left">🛠️ Tools & Technologies:</h2>
 <h3 align="left">
   I'm always eager to learn and experiment with new tools and technologies to enhance my skills. Whether it's diving into the world of AI, exploring the latest frameworks, or mastering cloud services, I'm committed to continuous growth.
