@@ -1,4 +1,4 @@
-<img class="giphy-gif-img giphy-img-loaded" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXd1N3BhMzVrd2JheXN5OGZlY2Nqd2oxc2tmcTF5enA1bnpxNTNtZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eCqFYAVjjDksg/200.gif" width="100%" height="100%" alt="Meme Hacking GIF" style="background: rgba(0, 0, 0, 0);">
+<img class="giphy-gif-img giphy-img-loaded" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmhmcTd3MG1sd25kNjlpcHJ5a3VwYzNlOGpobHB3YXR4OTRtaHhhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" style="background:rgba(0,0,0,0)" width="100%" height="100%" alt=" ">
 
 <h2 align="left">Hi viewer 🤘 ! <br>
 I am Nouman, a BTech CSE-AI Undergrad 🎓. I am passionate about Web Development👨🏻‍💻, Cloud Computing, and Cybersecurity 🚀.<br>
