@@ -66,11 +66,6 @@ I am Nouman, a BTech CSE-AI Undergrad 🎓. I am passionate about Web Developmen
 ![](https://github-readme-stats.vercel.app/api?username=Nouman-wp&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nouman-wp&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nouman-wp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-# ✍️ Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AhmedUsername&color=blue)
