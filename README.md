@@ -55,9 +55,6 @@ I am Nouman, a BTech CSE-AI Undergrad 🎓. I am passionate about Web Developmen
 
 <br clear="both">
 
-<h2> 🚀 Fun Fact:</h2>
-<h3>I'm a big fan of coding challenges and hackathons! Participating in them not only sharpens my skills but also allows me to collaborate with amazing minds. Let’s connect and create something awesome together!</h3>
-
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" style="display: block; margin: 0 auto; width: 850px; height: 400px;" />
 <br>
 
@@ -66,6 +63,5 @@ I am Nouman, a BTech CSE-AI Undergrad 🎓. I am passionate about Web Developmen
 ![](https://github-readme-stats.vercel.app/api?username=Nouman-wp&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nouman-wp&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nouman-wp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AhmedUsername&color=blue)
