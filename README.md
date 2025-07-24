@@ -1,8 +1,8 @@
 
 <img class="giphy-gif-img giphy-img-loaded" src="https://pbs.twimg.com/profile_banners/1828513608927465472/1753220454/1500x500" style="background:rgba(0,0,0,0)" width="100%" height="300px" alt=" gif">
 
-<h2 align="left">Hi viewer 🤘 ! <br>
-I am Nouman, a BTech CSE-AI Undergrad 🎓. I am passionate about Web Development👨🏻‍💻, Cloud Computing, and Cybersecurity 🚀.<br>
+<h2 align="left">Hi viewer  ! <br>
+I am Nouman, a BTech CSE-AI Undergrad 🎓. I am passionate about Web Development👨🏻‍💻, Blockchain and Cybersecurity 🚀.<br>
 🌐 I’m driven by a passion for innovation and a desire to turn ideas into practical solutions that solve real-world problems. My goal is to leverage technology to create meaningful and innovative solutions 💥.</h2>
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif">
 
