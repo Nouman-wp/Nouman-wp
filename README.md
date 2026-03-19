@@ -1,5 +1,6 @@
+<img class="giphy-gif-img giphy-img-loaded" src="https://private-user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzM5MzAwMDUsIm5iZiI6MTc3MzkyOTcwNSwicGF0aCI6Ii83NDAzODE5MC8yNTA5Njc2MTgtZGUzMDAxNWYtZGM1Zi00ZWNmLWE0OWItY2NkMmI4OTc3NmU0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzE5VDE0MTUwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTEyZWNjOTViZGE2MTFmMmQ2Yjk3ODYwZWQ4YmQxNDJmNTBlZjBlNzNjYzdmMWQyMDRiZGUyNDRkODZkOTM1NTAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.PI4llZ9WAvUzUVMG14sWfhfkoMr-BrnQIleJ5d4lAz4" style="background:rgba(0,0,0,0)" width="100%" height="300px" alt=" gif">
 
-<img class="giphy-gif-img giphy-img-loaded" src="https://pbs.twimg.com/profile_banners/1828513608927465472/1753220454/1500x500" style="background:rgba(0,0,0,0)" width="100%" height="300px" alt=" gif">
+<!-- <img class="giphy-gif-img giphy-img-loaded" src="https://pbs.twimg.com/profile_banners/1828513608927465472/1753220454/1500x500" style="background:rgba(0,0,0,0)" width="100%" height="300px" alt=" gif"> -->
 
 <h2 align="left">Hi viewer  ! <br>
 I am Nouman, a BTech CSE-AI Undergrad 🎓. I am passionate about Web Development👨🏻‍💻, Blockchain and Cybersecurity 🚀.<br>
