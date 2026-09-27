@@ -18,7 +18,7 @@
 
 I am a final year BTech CSE (AI/ML) student at Jamia Hamdard University, focused on blockchain systems and applied AI. I like building things end to end, from a working smart contract to a full product, rather than stopping at a proof of concept.
 
-- Active BNB Chain Martians Program developer, building and shipping on-chain tools
+- Three years across blockchain security, systems engineering, and software development
 - Multiple hackathon wins across Citrea, BNB Chain, and Monad ecosystems
 - Comfortable across the stack: smart contracts, backend, frontend, and ML pipelines
 
