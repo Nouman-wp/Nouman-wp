@@ -25,7 +25,7 @@ I am a final year BTech CSE (AI/ML) student at Jamia Hamdard University, focused
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3I3MncyYXpvZ3lqeWpjYmZsaXhqZ3RvNm5xeGtiMG53dXlvNzV2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="100%">
 
 </td>
 </tr>
@@ -78,22 +78,6 @@ I am a final year BTech CSE (AI/ML) student at Jamia Hamdard University, focused
 <img src="https://skillicons.dev/icons?i=git,vscode,linux,anaconda,latex" />
 
 </div>
-
-<br>
-
-## Experience
-
-**Intern — Scientific Analysis Group (SAG), DRDO** · Jun 2026 – Jul 2026
-Built a blockchain secured drone swarm management system on Hyperledger Fabric using Go chaincode and a Node.js SDK layer, with MQTT telemetry integration from simulated drone nodes.
-
-**Martian Developer — BNB Chain Global** · Jul 2025 – May 2026
-Official community and ecosystem developer for the BNB Chain Martians Program, building and deploying developer tools and applications, and authoring technical blogs for the BNB Chain Forum.
-
-**Cybersecurity Intern — Haryana Police Cyber Crime Police Station** · Jun 2025 – Jul 2025
-Developed a cryptocurrency wallet tracking tool for extracting ownership patterns and transactional intelligence from blockchain wallet addresses, in support of law enforcement investigations.
-
-**Lead Web Developer — Google Developer Group, Jamia Hamdard** · Sep 2024 – Nov 2025
-Organized 10+ workshops, hackathons, and tech sessions reaching 500+ participants, growing the campus web dev community.
 
 <br>
 
