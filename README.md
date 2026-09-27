@@ -40,19 +40,16 @@ I am a final year BTech CSE (AI/ML) student at Jamia Hamdard University, focused
 **Languages**
 
 <img src="https://skillicons.dev/icons?i=js,ts,python,java,rust" />
-
 <br><br>
 
 **Frameworks & Web**
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,vite" />
-
 <br><br>
 
 **Databases**
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase" />
-
 <br><br>
 
 **Blockchain**
@@ -61,7 +58,6 @@ I am a final year BTech CSE (AI/ML) student at Jamia Hamdard University, focused
 <img src="https://img.shields.io/badge/Hyperledger%20Fabric-2F3134?style=for-the-badge&logo=hyperledger&logoColor=2F3134&labelColor=white" />
 <img src="https://img.shields.io/badge/Remix%20IDE-1E1E1E?style=for-the-badge&logo=ethereum&logoColor=white" />
 <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
-
 <br><br>
 
 **Machine Learning**
@@ -70,13 +66,11 @@ I am a final year BTech CSE (AI/ML) student at Jamia Hamdard University, focused
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-
 <br><br>
 
 **Tools & Platforms**
 
 <img src="https://skillicons.dev/icons?i=git,vscode,linux,anaconda,latex" />
-
 </div>
 
 <br>
