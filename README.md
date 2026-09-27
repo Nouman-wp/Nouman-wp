@@ -84,12 +84,7 @@ I am a final year BTech CSE (AI/ML) student at Jamia Hamdard University, focused
 ## GitHub Stats
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Nouman-wp&theme=dark&hide_border=true&include_all_commits=false&count_private=false" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nouman-wp&theme=dark&hide_border=true&layout=compact" />
-
 <br>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nouman-wp&theme=dark&hide_border=true" />
 
 </div>
@@ -113,7 +108,7 @@ I am a final year BTech CSE (AI/ML) student at Jamia Hamdard University, focused
 Finalist, Stellar Ideathon · 15th place, Monad Blitz. An anime NFT marketplace on the Monad Testnet for minting and trading unique NFTs.
 
 **QuestCraft: Minecraft Plugin** — Java, Solidity, Node, Express, EJS
-Runner-Up Bounty + Tier 4 Global Prize ($3000), BNB Chain Hackathon @ IIT Delhi. A Minecraft plugin where players complete quests and earn on-chain crypto rewards, with Solidity contracts minting SBTs as proof of achievement.
+Runner-Up Bounty + Tier 4 Global Prize, BNB Chain Hackathon @ IIT Delhi. A Minecraft plugin where players complete quests and earn on-chain crypto rewards, with Solidity contracts minting SBTs as proof of achievement.
 
 <br>
 
@@ -124,7 +119,7 @@ Runner-Up Bounty + Tier 4 Global Prize ($3000), BNB Chain Hackathon @ IIT Delhi.
 <a href="https://www.linkedin.com/in/mujeeb-nouman-31330a282/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://discordapp.com/users/Nouman_WP/">
+<a href="https://discordapp.com/users/caspian_wp/">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/nouman_wp/">
