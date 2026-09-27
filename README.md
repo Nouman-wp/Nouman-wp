@@ -1,8 +1,12 @@
-<div align="center">
+<!--
+  <p align="center">
+    <img src="YOUR_GIF_URL" width="100%">
+  </p>
+-->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Nouman+%F0%9F%91%8B;BTech+CSE+(AI%2FML)+Undergrad;Web3+%7C+Blockchain+%7C+AI+Engineer;Turning+ideas+into+working+systems" alt="Typing SVG" />
-
-</div>
+<p align="center">
+  <b>Web3 &nbsp;|&nbsp; Blockchain &nbsp;|&nbsp; AI Engineer</b>
+</p>
 
 <br>
 
@@ -12,16 +16,16 @@
 
 ### About Me
 
-I am a final year BTech CSE (AI/ML) student, focused on blockchain systems and applied AI. I like building things end to end, from a working smart contract to a full product, rather than stopping at a proof of concept.
+I am a final year BTech CSE (AI/ML) student at Jamia Hamdard University, focused on blockchain systems and applied AI. I like building things end to end, from a working smart contract to a full product, rather than stopping at a proof of concept.
 
-- Currently building projects across decentralized applications and AI powered tools
+- Active BNB Chain Martians Program developer, building and shipping on-chain tools
+- Multiple hackathon wins across Citrea, BNB Chain, and Monad ecosystems
 - Comfortable across the stack: smart contracts, backend, frontend, and ML pipelines
-- Always learning new frameworks and cloud tooling
 
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" width="100%">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%">
 
 </td>
 </tr>
@@ -35,23 +39,61 @@ I am a final year BTech CSE (AI/ML) student, focused on blockchain systems and a
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c,java,solidity" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,rust" />
 
 <br><br>
 
-**Web & Blockchain**
+**Frameworks & Web**
 
-<img src="https://skillicons.dev/icons?i=react,html,css,nodejs,mongodb" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,vite" />
+
+<br><br>
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase" />
+
+<br><br>
+
+**Blockchain**
+
+<img src="https://skillicons.dev/icons?i=solidity,hardhat" />
 <img src="https://img.shields.io/badge/Hyperledger%20Fabric-2F3134?style=for-the-badge&logo=hyperledger&logoColor=2F3134&labelColor=white" />
+<img src="https://img.shields.io/badge/Remix%20IDE-1E1E1E?style=for-the-badge&logo=ethereum&logoColor=white" />
 <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
+
+<br><br>
+
+**Machine Learning**
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 
 <br><br>
 
 **Tools & Platforms**
 
-<img src="https://skillicons.dev/icons?i=gcp,anaconda,linux,git,vscode,latex" />
+<img src="https://skillicons.dev/icons?i=git,vscode,linux,anaconda,latex" />
 
 </div>
+
+<br>
+
+## Experience
+
+**Intern — Scientific Analysis Group (SAG), DRDO** · Jun 2026 – Jul 2026
+Built a blockchain secured drone swarm management system on Hyperledger Fabric using Go chaincode and a Node.js SDK layer, with MQTT telemetry integration from simulated drone nodes.
+
+**Martian Developer — BNB Chain Global** · Jul 2025 – May 2026
+Official community and ecosystem developer for the BNB Chain Martians Program, building and deploying developer tools and applications, and authoring technical blogs for the BNB Chain Forum.
+
+**Cybersecurity Intern — Haryana Police Cyber Crime Police Station** · Jun 2025 – Jul 2025
+Developed a cryptocurrency wallet tracking tool for extracting ownership patterns and transactional intelligence from blockchain wallet addresses, in support of law enforcement investigations.
+
+**Lead Web Developer — Google Developer Group, Jamia Hamdard** · Sep 2024 – Nov 2025
+Organized 10+ workshops, hackathons, and tech sessions reaching 500+ participants, growing the campus web dev community.
 
 <br>
 
@@ -78,6 +120,19 @@ I am a final year BTech CSE (AI/ML) student, focused on blockchain systems and a
 
 <br>
 
+## Featured Projects
+
+**Book of Secrets** — React, TypeScript, ethers.js v6, Solidity, Hardhat
+1st Place, Citrea Hackathon. A decentralized app for writing encrypted secrets stored on-chain, unlocked via AES-256 password hashes and cBTC payment gates.
+
+**AniVerse Marketplace** — Node, Express, EJS, MongoDB, Solidity, IPFS
+Finalist, Stellar Ideathon · 15th place, Monad Blitz. An anime NFT marketplace on the Monad Testnet for minting and trading unique NFTs.
+
+**QuestCraft: Minecraft Plugin** — Java, Solidity, Node, Express, EJS
+Runner-Up Bounty + Tier 4 Global Prize ($3000), BNB Chain Hackathon @ IIT Delhi. A Minecraft plugin where players complete quests and earn on-chain crypto rewards, with Solidity contracts minting SBTs as proof of achievement.
+
+<br>
+
 ## Connect With Me
 
 <div align="center">
@@ -91,7 +146,7 @@ I am a final year BTech CSE (AI/ML) student, focused on blockchain systems and a
 <a href="https://www.instagram.com/nouman_wp/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="mailto:youremail@example.com">
+<a href="mailto:noumanpm@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
